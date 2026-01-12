@@ -1,2 +1,2 @@
 # Python
-Studying Python Language 
+Hiii! Let's start Python ! 😁✨
